@@ -3,5 +3,5 @@
 
 <div class='container'>
  <img class="img" style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Tricker-z&show_icons=true&theme=dark&hide_border=true&count_private=true&hidden_star=false" />
- <img class="img" style="height: auto; width: 35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tricker-z&layout=compact&theme=dark&hide_border=true" />
+ <img class="img" style="height: auto; width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tricker-z&layout=compact&theme=dark&hide_border=true" />
 </div>
